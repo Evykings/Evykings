@@ -1,5 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fdata-science-banner&psig=AOvVaw2fjWmc5L-jwGGMwB1wDnNg&ust=1731701513500000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOitsJTR3IkDFQAAAAAdAAAAABAY)
 <h1 align="center">Hi 👋, I'm Evans Akpowan</h1>
 <h3 align="center">Analytic Data Scientists with 3 years in data analytics, machine learning, and statistical modeling to drive strategic decisions</h3>
 
